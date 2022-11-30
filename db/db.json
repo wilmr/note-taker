@@ -1,12 +1,13 @@
 {
   "notesArr": [
     {
-      "title": "Test Title",
-      "text": "Test text"
-    },
-    {
       "title": "test",
       "text": "test",
+      "id": 0
+    },
+    {
+      "title": "Finish Challenges",
+      "text": "1 challenge a day gives you 8 Days of space. \n",
       "id": "1"
     }
   ]
